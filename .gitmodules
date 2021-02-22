@@ -1,0 +1,6 @@
+[submodule "react-complete-guide-burger"]
+	path = react-complete-guide-burger
+	url = ./react-complete-guide-burger/
+[submodule "react-complete-http-starter"]
+	path = react-complete-http-starter
+	url = ./react-complete-http-starter/
